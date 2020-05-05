@@ -1,4 +1,4 @@
-package com.springboot.themplate.userapp.entity;
+package com.springboot.themplate.model;
 
 import java.io.Serializable;
 
